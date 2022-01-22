@@ -1,6 +1,6 @@
 # Election Analysis
 
-## Over of Election Audit
+## Overview of Election Audit
 
 Explain the purpose of this election audit analysis.
 
@@ -15,7 +15,7 @@ Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-![This is an image](https://github.com/gonzojc/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![This is an image](https://github.com/gonzojc/Election-Results/blob/main/Resources/Election%20Analysis.png)
 
 ## Election-Audit Summary
 
